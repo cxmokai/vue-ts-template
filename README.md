@@ -18,7 +18,5 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 ## Usage
 
 ```shell
-git clone git@github.com:cxmokai/vue-ts-template.git [project name]
-
-git remote remove origin
+npx degit cxmokai/vue-ts-template project-name
 ```
