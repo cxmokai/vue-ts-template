@@ -14,7 +14,7 @@
     "@types/node": "^18.0.0",
     "@typescript-eslint/eslint-plugin": "^5.26.0",
     "@typescript-eslint/parser": "^5.26.0",
-    "@vitejs/plugin-vue": "^2.3.3",
+    "@vitejs/plugin-vue": "^3.0.3",
     "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
@@ -22,7 +22,7 @@
     "prettier": "^2.6.2",
     "sass": "^1.52.1",
     "typescript": "^4.5.4",
-    "vite": "^2.9.9",
-    "vue-tsc": "^0.38.2"
+    "vite": "^3.0.9",
+    "vue-tsc": "^0.40.1"
   }
 }
