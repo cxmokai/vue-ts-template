@@ -14,6 +14,7 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
   ],
+  ignorePatterns: ['auto-imports.d.ts', 'components.d.ts'],
   rules: {
     'vue/multi-word-component-names': [
       'error',
